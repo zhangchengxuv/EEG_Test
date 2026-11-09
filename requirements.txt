@@ -1,0 +1,34 @@
+# EEG_Test 依赖（一次安装覆盖下列程序）：
+#   - Plot/FIFO_plot.py          实时采集、UDP 打标、保存 *-raw.fif
+#   - UI_cue/cue_paradigm.py     运动想象范式、UDP 发打标
+#   - data_process/data_process.ipynb  MNE 读 FIF/EDF、滤波、ICA、TRIG 分段
+#
+# 安装（建议在项目根目录、虚拟环境中）：
+#   pip install -r requirements.txt
+#
+# 可选：笔记本中用交互式 %matplotlib widget 时需
+#   pip install ipympl
+
+# --- 共用 / data_process.ipynb（MNE、作图）---
+mne>=1.5.0
+numpy>=1.20.0
+matplotlib>=3.5.0
+scipy>=1.7.0
+# ICA method='fastica' / 'picard' 等（MNE 内部调用 sklearn）
+scikit-learn>=1.0.0
+
+# --- FIFO_plot.py ---
+PyQt5>=5.15.0
+pyqtgraph>=0.13.0
+pyserial>=3.5
+PyQt-Fluent-Widgets>=1.5.0
+
+# --- cue_paradigm.py（与 FIFO_plot 共用 PyQt5）---
+# （无额外包）
+
+# --- 运行 Jupyter 笔记本 ---
+jupyter>=1.0.0
+ipykernel>=6.0.0
+
+# --- Classification/eegnet.py ---
+torch>=2.0.0

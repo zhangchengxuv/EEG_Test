@@ -1,0 +1,123 @@
+timestamp_iso,event,trial_index,direction,phase_elapsed_s,note
+2026-04-16 19:48:00.453,session_start,0,,,trials=20
+2026-04-16 19:48:00.454,baseline_rest_start,0,,,duration_s=3.0
+2026-04-16 19:48:03.444,rest_end,0,,,trial=0
+2026-04-16 19:48:03.444,prep_start,0,,,trial=0
+2026-04-16 19:48:04.960,prep_end,0,,,trial=0
+2026-04-16 19:48:04.960,mi_cue_on,0,left,,trial=0 duration_s=4.0
+2026-04-16 19:48:08.959,mi_cue_off,0,left,,trial=0
+2026-04-16 19:48:08.959,rest_start,1,,,duration_s=3.0
+2026-04-16 19:48:11.959,rest_end,1,,,trial=1
+2026-04-16 19:48:11.959,prep_start,1,,,trial=1
+2026-04-16 19:48:13.458,prep_end,1,,,trial=1
+2026-04-16 19:48:13.458,mi_cue_on,1,left,,trial=1 duration_s=4.0
+2026-04-16 19:48:17.458,mi_cue_off,1,left,,trial=1
+2026-04-16 19:48:17.458,rest_start,2,,,duration_s=3.0
+2026-04-16 19:48:20.460,rest_end,2,,,trial=2
+2026-04-16 19:48:20.460,prep_start,2,,,trial=2
+2026-04-16 19:48:21.960,prep_end,2,,,trial=2
+2026-04-16 19:48:21.960,mi_cue_on,2,left,,trial=2 duration_s=4.0
+2026-04-16 19:48:25.959,mi_cue_off,2,left,,trial=2
+2026-04-16 19:48:25.959,rest_start,3,,,duration_s=3.0
+2026-04-16 19:48:28.958,rest_end,3,,,trial=3
+2026-04-16 19:48:28.958,prep_start,3,,,trial=3
+2026-04-16 19:48:30.458,prep_end,3,,,trial=3
+2026-04-16 19:48:30.458,mi_cue_on,3,left,,trial=3 duration_s=4.0
+2026-04-16 19:48:34.461,mi_cue_off,3,left,,trial=3
+2026-04-16 19:48:34.461,rest_start,4,,,duration_s=3.0
+2026-04-16 19:48:37.461,rest_end,4,,,trial=4
+2026-04-16 19:48:37.461,prep_start,4,,,trial=4
+2026-04-16 19:48:38.960,prep_end,4,,,trial=4
+2026-04-16 19:48:38.960,mi_cue_on,4,left,,trial=4 duration_s=4.0
+2026-04-16 19:48:42.959,mi_cue_off,4,left,,trial=4
+2026-04-16 19:48:42.959,rest_start,5,,,duration_s=3.0
+2026-04-16 19:48:45.958,rest_end,5,,,trial=5
+2026-04-16 19:48:45.958,prep_start,5,,,trial=5
+2026-04-16 19:48:47.457,prep_end,5,,,trial=5
+2026-04-16 19:48:47.458,mi_cue_on,5,right,,trial=5 duration_s=4.0
+2026-04-16 19:48:51.461,mi_cue_off,5,right,,trial=5
+2026-04-16 19:48:51.461,rest_start,6,,,duration_s=3.0
+2026-04-16 19:48:54.460,rest_end,6,,,trial=6
+2026-04-16 19:48:54.460,prep_start,6,,,trial=6
+2026-04-16 19:48:55.960,prep_end,6,,,trial=6
+2026-04-16 19:48:55.960,mi_cue_on,6,right,,trial=6 duration_s=4.0
+2026-04-16 19:48:59.959,mi_cue_off,6,right,,trial=6
+2026-04-16 19:48:59.959,rest_start,7,,,duration_s=3.0
+2026-04-16 19:49:02.959,rest_end,7,,,trial=7
+2026-04-16 19:49:02.959,prep_start,7,,,trial=7
+2026-04-16 19:49:04.458,prep_end,7,,,trial=7
+2026-04-16 19:49:04.458,mi_cue_on,7,right,,trial=7 duration_s=4.0
+2026-04-16 19:49:08.458,mi_cue_off,7,right,,trial=7
+2026-04-16 19:49:08.458,rest_start,8,,,duration_s=3.0
+2026-04-16 19:49:11.462,rest_end,8,,,trial=8
+2026-04-16 19:49:11.462,prep_start,8,,,trial=8
+2026-04-16 19:49:12.959,prep_end,8,,,trial=8
+2026-04-16 19:49:12.959,mi_cue_on,8,left,,trial=8 duration_s=4.0
+2026-04-16 19:49:16.959,mi_cue_off,8,left,,trial=8
+2026-04-16 19:49:16.959,rest_start,9,,,duration_s=3.0
+2026-04-16 19:49:19.958,rest_end,9,,,trial=9
+2026-04-16 19:49:19.958,prep_start,9,,,trial=9
+2026-04-16 19:49:21.458,prep_end,9,,,trial=9
+2026-04-16 19:49:21.458,mi_cue_on,9,right,,trial=9 duration_s=4.0
+2026-04-16 19:49:25.458,mi_cue_off,9,right,,trial=9
+2026-04-16 19:49:25.458,rest_start,10,,,duration_s=3.0
+2026-04-16 19:49:28.458,rest_end,10,,,trial=10
+2026-04-16 19:49:28.458,prep_start,10,,,trial=10
+2026-04-16 19:49:29.960,prep_end,10,,,trial=10
+2026-04-16 19:49:29.960,mi_cue_on,10,left,,trial=10 duration_s=4.0
+2026-04-16 19:49:33.967,mi_cue_off,10,left,,trial=10
+2026-04-16 19:49:33.967,rest_start,11,,,duration_s=3.0
+2026-04-16 19:49:36.958,rest_end,11,,,trial=11
+2026-04-16 19:49:36.958,prep_start,11,,,trial=11
+2026-04-16 19:49:38.458,prep_end,11,,,trial=11
+2026-04-16 19:49:38.458,mi_cue_on,11,right,,trial=11 duration_s=4.0
+2026-04-16 19:49:42.461,mi_cue_off,11,right,,trial=11
+2026-04-16 19:49:42.461,rest_start,12,,,duration_s=3.0
+2026-04-16 19:49:45.460,rest_end,12,,,trial=12
+2026-04-16 19:49:45.461,prep_start,12,,,trial=12
+2026-04-16 19:49:46.960,prep_end,12,,,trial=12
+2026-04-16 19:49:46.960,mi_cue_on,12,right,,trial=12 duration_s=4.0
+2026-04-16 19:49:50.959,mi_cue_off,12,right,,trial=12
+2026-04-16 19:49:50.959,rest_start,13,,,duration_s=3.0
+2026-04-16 19:49:53.958,rest_end,13,,,trial=13
+2026-04-16 19:49:53.958,prep_start,13,,,trial=13
+2026-04-16 19:49:55.458,prep_end,13,,,trial=13
+2026-04-16 19:49:55.458,mi_cue_on,13,right,,trial=13 duration_s=4.0
+2026-04-16 19:49:59.461,mi_cue_off,13,right,,trial=13
+2026-04-16 19:49:59.461,rest_start,14,,,duration_s=3.0
+2026-04-16 19:50:02.460,rest_end,14,,,trial=14
+2026-04-16 19:50:02.460,prep_start,14,,,trial=14
+2026-04-16 19:50:03.977,prep_end,14,,,trial=14
+2026-04-16 19:50:03.977,mi_cue_on,14,right,,trial=14 duration_s=4.0
+2026-04-16 19:50:07.976,mi_cue_off,14,right,,trial=14
+2026-04-16 19:50:07.976,rest_start,15,,,duration_s=3.0
+2026-04-16 19:50:10.975,rest_end,15,,,trial=15
+2026-04-16 19:50:10.975,prep_start,15,,,trial=15
+2026-04-16 19:50:12.474,prep_end,15,,,trial=15
+2026-04-16 19:50:12.474,mi_cue_on,15,right,,trial=15 duration_s=4.0
+2026-04-16 19:50:16.473,mi_cue_off,15,right,,trial=15
+2026-04-16 19:50:16.473,rest_start,16,,,duration_s=3.0
+2026-04-16 19:50:19.477,rest_end,16,,,trial=16
+2026-04-16 19:50:19.477,prep_start,16,,,trial=16
+2026-04-16 19:50:20.974,prep_end,16,,,trial=16
+2026-04-16 19:50:20.974,mi_cue_on,16,right,,trial=16 duration_s=4.0
+2026-04-16 19:50:24.975,mi_cue_off,16,right,,trial=16
+2026-04-16 19:50:24.976,rest_start,17,,,duration_s=3.0
+2026-04-16 19:50:27.974,rest_end,17,,,trial=17
+2026-04-16 19:50:27.974,prep_start,17,,,trial=17
+2026-04-16 19:50:29.474,prep_end,17,,,trial=17
+2026-04-16 19:50:29.474,mi_cue_on,17,left,,trial=17 duration_s=4.0
+2026-04-16 19:50:33.477,mi_cue_off,17,left,,trial=17
+2026-04-16 19:50:33.477,rest_start,18,,,duration_s=3.0
+2026-04-16 19:50:36.475,rest_end,18,,,trial=18
+2026-04-16 19:50:36.475,prep_start,18,,,trial=18
+2026-04-16 19:50:37.976,prep_end,18,,,trial=18
+2026-04-16 19:50:37.977,mi_cue_on,18,left,,trial=18 duration_s=4.0
+2026-04-16 19:50:41.976,mi_cue_off,18,left,,trial=18
+2026-04-16 19:50:41.976,rest_start,19,,,duration_s=3.0
+2026-04-16 19:50:44.974,rest_end,19,,,trial=19
+2026-04-16 19:50:44.974,prep_start,19,,,trial=19
+2026-04-16 19:50:46.474,prep_end,19,,,trial=19
+2026-04-16 19:50:46.474,mi_cue_on,19,left,,trial=19 duration_s=4.0
+2026-04-16 19:50:50.473,mi_cue_off,19,left,,trial=19
+2026-04-16 19:50:50.473,session_end,20,,,trials_completed=20

@@ -1,0 +1,243 @@
+timestamp_iso,event,trial_index,direction,phase_elapsed_s,note
+2026-04-17 12:16:00.501,session_start,0,,,trials=40
+2026-04-17 12:16:00.503,baseline_rest_start,0,,,duration_s=3.0
+2026-04-17 12:16:03.490,rest_end,0,,,trial=0
+2026-04-17 12:16:03.490,prep_start,0,,,trial=0
+2026-04-17 12:16:04.990,prep_end,0,,,trial=0
+2026-04-17 12:16:04.990,mi_cue_on,0,right,,trial=0 duration_s=4.0
+2026-04-17 12:16:08.991,mi_cue_off,0,right,,trial=0
+2026-04-17 12:16:08.991,rest_start,1,,,duration_s=3.0
+2026-04-17 12:16:11.992,rest_end,1,,,trial=1
+2026-04-17 12:16:11.992,prep_start,1,,,trial=1
+2026-04-17 12:16:13.490,prep_end,1,,,trial=1
+2026-04-17 12:16:13.490,mi_cue_on,1,left,,trial=1 duration_s=4.0
+2026-04-17 12:16:17.490,mi_cue_off,1,left,,trial=1
+2026-04-17 12:16:17.490,rest_start,2,,,duration_s=3.0
+2026-04-17 12:16:20.490,rest_end,2,,,trial=2
+2026-04-17 12:16:20.490,prep_start,2,,,trial=2
+2026-04-17 12:16:21.991,prep_end,2,,,trial=2
+2026-04-17 12:16:21.991,mi_cue_on,2,left,,trial=2 duration_s=4.0
+2026-04-17 12:16:25.989,mi_cue_off,2,left,,trial=2
+2026-04-17 12:16:25.989,rest_start,3,,,duration_s=3.0
+2026-04-17 12:16:28.990,rest_end,3,,,trial=3
+2026-04-17 12:16:28.990,prep_start,3,,,trial=3
+2026-04-17 12:16:30.490,prep_end,3,,,trial=3
+2026-04-17 12:16:30.490,mi_cue_on,3,right,,trial=3 duration_s=4.0
+2026-04-17 12:16:34.491,mi_cue_off,3,right,,trial=3
+2026-04-17 12:16:34.491,rest_start,4,,,duration_s=3.0
+2026-04-17 12:16:37.489,rest_end,4,,,trial=4
+2026-04-17 12:16:37.489,prep_start,4,,,trial=4
+2026-04-17 12:16:38.990,prep_end,4,,,trial=4
+2026-04-17 12:16:38.990,mi_cue_on,4,left,,trial=4 duration_s=4.0
+2026-04-17 12:16:42.990,mi_cue_off,4,left,,trial=4
+2026-04-17 12:16:42.990,rest_start,5,,,duration_s=3.0
+2026-04-17 12:16:45.991,rest_end,5,,,trial=5
+2026-04-17 12:16:45.991,prep_start,5,,,trial=5
+2026-04-17 12:16:47.490,prep_end,5,,,trial=5
+2026-04-17 12:16:47.490,mi_cue_on,5,right,,trial=5 duration_s=4.0
+2026-04-17 12:16:51.490,mi_cue_off,5,right,,trial=5
+2026-04-17 12:16:51.490,rest_start,6,,,duration_s=3.0
+2026-04-17 12:16:54.491,rest_end,6,,,trial=6
+2026-04-17 12:16:54.491,prep_start,6,,,trial=6
+2026-04-17 12:16:55.990,prep_end,6,,,trial=6
+2026-04-17 12:16:55.990,mi_cue_on,6,left,,trial=6 duration_s=4.0
+2026-04-17 12:16:59.990,mi_cue_off,6,left,,trial=6
+2026-04-17 12:16:59.990,rest_start,7,,,duration_s=3.0
+2026-04-17 12:17:02.991,rest_end,7,,,trial=7
+2026-04-17 12:17:02.991,prep_start,7,,,trial=7
+2026-04-17 12:17:04.489,prep_end,7,,,trial=7
+2026-04-17 12:17:04.489,mi_cue_on,7,right,,trial=7 duration_s=4.0
+2026-04-17 12:17:08.489,mi_cue_off,7,right,,trial=7
+2026-04-17 12:17:08.489,rest_start,8,,,duration_s=3.0
+2026-04-17 12:17:11.490,rest_end,8,,,trial=8
+2026-04-17 12:17:11.490,prep_start,8,,,trial=8
+2026-04-17 12:17:12.991,prep_end,8,,,trial=8
+2026-04-17 12:17:12.991,mi_cue_on,8,left,,trial=8 duration_s=4.0
+2026-04-17 12:17:16.989,mi_cue_off,8,left,,trial=8
+2026-04-17 12:17:16.989,rest_start,9,,,duration_s=3.0
+2026-04-17 12:17:19.990,rest_end,9,,,trial=9
+2026-04-17 12:17:19.990,prep_start,9,,,trial=9
+2026-04-17 12:17:21.490,prep_end,9,,,trial=9
+2026-04-17 12:17:21.490,mi_cue_on,9,left,,trial=9 duration_s=4.0
+2026-04-17 12:17:25.491,mi_cue_off,9,left,,trial=9
+2026-04-17 12:17:25.491,rest_start,10,,,duration_s=3.0
+2026-04-17 12:17:28.490,rest_end,10,,,trial=10
+2026-04-17 12:17:28.490,prep_start,10,,,trial=10
+2026-04-17 12:17:29.990,prep_end,10,,,trial=10
+2026-04-17 12:17:29.990,mi_cue_on,10,left,,trial=10 duration_s=4.0
+2026-04-17 12:17:33.989,mi_cue_off,10,left,,trial=10
+2026-04-17 12:17:33.989,rest_start,11,,,duration_s=3.0
+2026-04-17 12:17:36.989,rest_end,11,,,trial=11
+2026-04-17 12:17:36.989,prep_start,11,,,trial=11
+2026-04-17 12:17:38.490,prep_end,11,,,trial=11
+2026-04-17 12:17:38.490,mi_cue_on,11,left,,trial=11 duration_s=4.0
+2026-04-17 12:17:42.489,mi_cue_off,11,left,,trial=11
+2026-04-17 12:17:42.489,rest_start,12,,,duration_s=3.0
+2026-04-17 12:17:45.505,rest_end,12,,,trial=12
+2026-04-17 12:17:45.506,prep_start,12,,,trial=12
+2026-04-17 12:17:47.006,prep_end,12,,,trial=12
+2026-04-17 12:17:47.006,mi_cue_on,12,right,,trial=12 duration_s=4.0
+2026-04-17 12:17:51.005,mi_cue_off,12,right,,trial=12
+2026-04-17 12:17:51.006,rest_start,13,,,duration_s=3.0
+2026-04-17 12:17:54.005,rest_end,13,,,trial=13
+2026-04-17 12:17:54.007,prep_start,13,,,trial=13
+2026-04-17 12:17:55.506,prep_end,13,,,trial=13
+2026-04-17 12:17:55.506,mi_cue_on,13,right,,trial=13 duration_s=4.0
+2026-04-17 12:17:59.506,mi_cue_off,13,right,,trial=13
+2026-04-17 12:17:59.506,rest_start,14,,,duration_s=3.0
+2026-04-17 12:18:02.506,rest_end,14,,,trial=14
+2026-04-17 12:18:02.506,prep_start,14,,,trial=14
+2026-04-17 12:18:04.006,prep_end,14,,,trial=14
+2026-04-17 12:18:04.006,mi_cue_on,14,left,,trial=14 duration_s=4.0
+2026-04-17 12:18:08.006,mi_cue_off,14,left,,trial=14
+2026-04-17 12:18:08.006,rest_start,15,,,duration_s=3.0
+2026-04-17 12:18:11.005,rest_end,15,,,trial=15
+2026-04-17 12:18:11.005,prep_start,15,,,trial=15
+2026-04-17 12:18:12.506,prep_end,15,,,trial=15
+2026-04-17 12:18:12.506,mi_cue_on,15,left,,trial=15 duration_s=4.0
+2026-04-17 12:18:16.506,mi_cue_off,15,left,,trial=15
+2026-04-17 12:18:16.507,rest_start,16,,,duration_s=3.0
+2026-04-17 12:18:19.505,rest_end,16,,,trial=16
+2026-04-17 12:18:19.505,prep_start,16,,,trial=16
+2026-04-17 12:18:21.006,prep_end,16,,,trial=16
+2026-04-17 12:18:21.006,mi_cue_on,16,left,,trial=16 duration_s=4.0
+2026-04-17 12:18:25.007,mi_cue_off,16,left,,trial=16
+2026-04-17 12:18:25.007,rest_start,17,,,duration_s=3.0
+2026-04-17 12:18:28.005,rest_end,17,,,trial=17
+2026-04-17 12:18:28.007,prep_start,17,,,trial=17
+2026-04-17 12:18:29.507,prep_end,17,,,trial=17
+2026-04-17 12:18:29.507,mi_cue_on,17,left,,trial=17 duration_s=4.0
+2026-04-17 12:18:33.506,mi_cue_off,17,left,,trial=17
+2026-04-17 12:18:33.506,rest_start,18,,,duration_s=3.0
+2026-04-17 12:18:36.505,rest_end,18,,,trial=18
+2026-04-17 12:18:36.505,prep_start,18,,,trial=18
+2026-04-17 12:18:38.005,prep_end,18,,,trial=18
+2026-04-17 12:18:38.005,mi_cue_on,18,left,,trial=18 duration_s=4.0
+2026-04-17 12:18:42.006,mi_cue_off,18,left,,trial=18
+2026-04-17 12:18:42.006,rest_start,19,,,duration_s=3.0
+2026-04-17 12:18:45.005,rest_end,19,,,trial=19
+2026-04-17 12:18:45.005,prep_start,19,,,trial=19
+2026-04-17 12:18:46.506,prep_end,19,,,trial=19
+2026-04-17 12:18:46.506,mi_cue_on,19,right,,trial=19 duration_s=4.0
+2026-04-17 12:18:50.505,mi_cue_off,19,right,,trial=19
+2026-04-17 12:18:50.505,rest_start,20,,,duration_s=3.0
+2026-04-17 12:18:53.505,rest_end,20,,,trial=20
+2026-04-17 12:18:53.505,prep_start,20,,,trial=20
+2026-04-17 12:18:55.005,prep_end,20,,,trial=20
+2026-04-17 12:18:55.005,mi_cue_on,20,left,,trial=20 duration_s=4.0
+2026-04-17 12:18:59.006,mi_cue_off,20,left,,trial=20
+2026-04-17 12:18:59.006,rest_start,21,,,duration_s=3.0
+2026-04-17 12:19:02.006,rest_end,21,,,trial=21
+2026-04-17 12:19:02.006,prep_start,21,,,trial=21
+2026-04-17 12:19:03.506,prep_end,21,,,trial=21
+2026-04-17 12:19:03.506,mi_cue_on,21,left,,trial=21 duration_s=4.0
+2026-04-17 12:19:07.506,mi_cue_off,21,left,,trial=21
+2026-04-17 12:19:07.506,rest_start,22,,,duration_s=3.0
+2026-04-17 12:19:10.507,rest_end,22,,,trial=22
+2026-04-17 12:19:10.507,prep_start,22,,,trial=22
+2026-04-17 12:19:12.005,prep_end,22,,,trial=22
+2026-04-17 12:19:12.005,mi_cue_on,22,right,,trial=22 duration_s=4.0
+2026-04-17 12:19:16.006,mi_cue_off,22,right,,trial=22
+2026-04-17 12:19:16.006,rest_start,23,,,duration_s=3.0
+2026-04-17 12:19:19.005,rest_end,23,,,trial=23
+2026-04-17 12:19:19.005,prep_start,23,,,trial=23
+2026-04-17 12:19:20.505,prep_end,23,,,trial=23
+2026-04-17 12:19:20.505,mi_cue_on,23,right,,trial=23 duration_s=4.0
+2026-04-17 12:19:24.505,mi_cue_off,23,right,,trial=23
+2026-04-17 12:19:24.505,rest_start,24,,,duration_s=3.0
+2026-04-17 12:19:27.506,rest_end,24,,,trial=24
+2026-04-17 12:19:27.506,prep_start,24,,,trial=24
+2026-04-17 12:19:29.005,prep_end,24,,,trial=24
+2026-04-17 12:19:29.005,mi_cue_on,24,left,,trial=24 duration_s=4.0
+2026-04-17 12:19:33.005,mi_cue_off,24,left,,trial=24
+2026-04-17 12:19:33.005,rest_start,25,,,duration_s=3.0
+2026-04-17 12:19:36.006,rest_end,25,,,trial=25
+2026-04-17 12:19:36.006,prep_start,25,,,trial=25
+2026-04-17 12:19:37.506,prep_end,25,,,trial=25
+2026-04-17 12:19:37.506,mi_cue_on,25,left,,trial=25 duration_s=4.0
+2026-04-17 12:19:41.505,mi_cue_off,25,left,,trial=25
+2026-04-17 12:19:41.506,rest_start,26,,,duration_s=3.0
+2026-04-17 12:19:44.507,rest_end,26,,,trial=26
+2026-04-17 12:19:44.507,prep_start,26,,,trial=26
+2026-04-17 12:19:46.005,prep_end,26,,,trial=26
+2026-04-17 12:19:46.005,mi_cue_on,26,left,,trial=26 duration_s=4.0
+2026-04-17 12:19:50.006,mi_cue_off,26,left,,trial=26
+2026-04-17 12:19:50.006,rest_start,27,,,duration_s=3.0
+2026-04-17 12:19:53.006,rest_end,27,,,trial=27
+2026-04-17 12:19:53.006,prep_start,27,,,trial=27
+2026-04-17 12:19:54.506,prep_end,27,,,trial=27
+2026-04-17 12:19:54.506,mi_cue_on,27,right,,trial=27 duration_s=4.0
+2026-04-17 12:19:58.506,mi_cue_off,27,right,,trial=27
+2026-04-17 12:19:58.506,rest_start,28,,,duration_s=3.0
+2026-04-17 12:20:01.505,rest_end,28,,,trial=28
+2026-04-17 12:20:01.505,prep_start,28,,,trial=28
+2026-04-17 12:20:03.005,prep_end,28,,,trial=28
+2026-04-17 12:20:03.005,mi_cue_on,28,right,,trial=28 duration_s=4.0
+2026-04-17 12:20:07.021,mi_cue_off,28,right,,trial=28
+2026-04-17 12:20:07.021,rest_start,29,,,duration_s=3.0
+2026-04-17 12:20:10.022,rest_end,29,,,trial=29
+2026-04-17 12:20:10.022,prep_start,29,,,trial=29
+2026-04-17 12:20:11.520,prep_end,29,,,trial=29
+2026-04-17 12:20:11.520,mi_cue_on,29,right,,trial=29 duration_s=4.0
+2026-04-17 12:20:15.522,mi_cue_off,29,right,,trial=29
+2026-04-17 12:20:15.522,rest_start,30,,,duration_s=3.0
+2026-04-17 12:20:18.521,rest_end,30,,,trial=30
+2026-04-17 12:20:18.521,prep_start,30,,,trial=30
+2026-04-17 12:20:20.022,prep_end,30,,,trial=30
+2026-04-17 12:20:20.022,mi_cue_on,30,left,,trial=30 duration_s=4.0
+2026-04-17 12:20:24.021,mi_cue_off,30,left,,trial=30
+2026-04-17 12:20:24.021,rest_start,31,,,duration_s=3.0
+2026-04-17 12:20:27.021,rest_end,31,,,trial=31
+2026-04-17 12:20:27.021,prep_start,31,,,trial=31
+2026-04-17 12:20:28.521,prep_end,31,,,trial=31
+2026-04-17 12:20:28.521,mi_cue_on,31,left,,trial=31 duration_s=4.0
+2026-04-17 12:20:32.521,mi_cue_off,31,left,,trial=31
+2026-04-17 12:20:32.521,rest_start,32,,,duration_s=3.0
+2026-04-17 12:20:35.522,rest_end,32,,,trial=32
+2026-04-17 12:20:35.522,prep_start,32,,,trial=32
+2026-04-17 12:20:37.020,prep_end,32,,,trial=32
+2026-04-17 12:20:37.020,mi_cue_on,32,right,,trial=32 duration_s=4.0
+2026-04-17 12:20:41.022,mi_cue_off,32,right,,trial=32
+2026-04-17 12:20:41.022,rest_start,33,,,duration_s=3.0
+2026-04-17 12:20:44.021,rest_end,33,,,trial=33
+2026-04-17 12:20:44.022,prep_start,33,,,trial=33
+2026-04-17 12:20:45.521,prep_end,33,,,trial=33
+2026-04-17 12:20:45.522,mi_cue_on,33,right,,trial=33 duration_s=4.0
+2026-04-17 12:20:49.536,mi_cue_off,33,right,,trial=33
+2026-04-17 12:20:49.536,rest_start,34,,,duration_s=3.0
+2026-04-17 12:20:52.536,rest_end,34,,,trial=34
+2026-04-17 12:20:52.536,prep_start,34,,,trial=34
+2026-04-17 12:20:54.037,prep_end,34,,,trial=34
+2026-04-17 12:20:54.037,mi_cue_on,34,left,,trial=34 duration_s=4.0
+2026-04-17 12:20:58.037,mi_cue_off,34,left,,trial=34
+2026-04-17 12:20:58.037,rest_start,35,,,duration_s=3.0
+2026-04-17 12:21:01.036,rest_end,35,,,trial=35
+2026-04-17 12:21:01.036,prep_start,35,,,trial=35
+2026-04-17 12:21:02.537,prep_end,35,,,trial=35
+2026-04-17 12:21:02.537,mi_cue_on,35,left,,trial=35 duration_s=4.0
+2026-04-17 12:21:06.537,mi_cue_off,35,left,,trial=35
+2026-04-17 12:21:06.537,rest_start,36,,,duration_s=3.0
+2026-04-17 12:21:09.538,rest_end,36,,,trial=36
+2026-04-17 12:21:09.538,prep_start,36,,,trial=36
+2026-04-17 12:21:11.036,prep_end,36,,,trial=36
+2026-04-17 12:21:11.036,mi_cue_on,36,right,,trial=36 duration_s=4.0
+2026-04-17 12:21:15.036,mi_cue_off,36,right,,trial=36
+2026-04-17 12:21:15.036,rest_start,37,,,duration_s=3.0
+2026-04-17 12:21:18.037,rest_end,37,,,trial=37
+2026-04-17 12:21:18.037,prep_start,37,,,trial=37
+2026-04-17 12:21:19.541,prep_end,37,,,trial=37
+2026-04-17 12:21:19.541,mi_cue_on,37,left,,trial=37 duration_s=4.0
+2026-04-17 12:21:23.538,mi_cue_off,37,left,,trial=37
+2026-04-17 12:21:23.538,rest_start,38,,,duration_s=3.0
+2026-04-17 12:21:26.537,rest_end,38,,,trial=38
+2026-04-17 12:21:26.537,prep_start,38,,,trial=38
+2026-04-17 12:21:28.038,prep_end,38,,,trial=38
+2026-04-17 12:21:28.038,mi_cue_on,38,left,,trial=38 duration_s=4.0
+2026-04-17 12:21:32.037,mi_cue_off,38,left,,trial=38
+2026-04-17 12:21:32.037,rest_start,39,,,duration_s=3.0
+2026-04-17 12:21:35.037,rest_end,39,,,trial=39
+2026-04-17 12:21:35.037,prep_start,39,,,trial=39
+2026-04-17 12:21:36.537,prep_end,39,,,trial=39
+2026-04-17 12:21:36.537,mi_cue_on,39,right,,trial=39 duration_s=4.0
+2026-04-17 12:21:40.537,mi_cue_off,39,right,,trial=39
+2026-04-17 12:21:40.537,session_end,40,,,trials_completed=40
